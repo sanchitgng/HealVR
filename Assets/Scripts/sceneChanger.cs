@@ -37,5 +37,8 @@ public class sceneChanger : MonoBehaviour
     {
         SceneManager.LoadScene(7);
     }
-
+    public void video()
+    {
+        SceneManager.LoadScene(8);
+    }
 }

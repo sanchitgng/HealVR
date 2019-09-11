@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MoonVR.unity
     guid: 343862ab66927bd4f97386b545de86e1
+  - enabled: 1
+    path: Assets/Scenes/360.unity
+    guid: 97f0913ac8311d047b6f089f35d3208e
   m_configObjects: {}

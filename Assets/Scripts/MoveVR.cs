@@ -21,10 +21,5 @@ public class MoveVR : MonoBehaviour
             transform.position = transform.position + Camera.main.transform.forward * playerSpeed * Time.deltaTime;
         }
 
-        if (Input.GetButton("Fire2"))
-        {
-            SceneManager.LoadScene(0);
-        }
-
     }
 }

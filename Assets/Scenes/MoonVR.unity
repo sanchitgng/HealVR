@@ -1938,10 +1938,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1829947329574511}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 44ae59c41dd9316499db2afd5f507916, type: 3}
+  m_Script: {fileID: 11500000, guid: 03191dbc4e90fe249b79335f8bf7c875, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 10
 --- !u!4 &4500801437505361
 Transform:
   m_ObjectHideFlags: 0

@@ -1900,7 +1900,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1178646930}
-        m_MethodName: loadChronic
+        m_MethodName: video
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
